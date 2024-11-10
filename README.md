@@ -65,6 +65,3 @@ Key performance indicators calculated using DAX:
 To explore the dashboard:
 1. Open the published Power BI report link in your browser.
 2. Interact with filters, time periods, and metrics for specific insights.
-```
-
-This format is ready for a `README.md` file on GitHub and should make your project clear and professional for potential viewers.
