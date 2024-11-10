@@ -20,7 +20,7 @@ The primary objective is to support Atliq Grands' revenue management team by pro
 
 ## Data Sources and Tools
 - **Data**: Historical booking data from Atliq Grands.
-- **Tools & Languages**: Power BI, DAX, Excel, and SQL for data handling, advanced visualization, and KPI formulation.
+- **Tools & Languages**: Power BI( for visualization), DAX (for KPI calculation), Excel, and SQL for data manipulation.
 
 ## Business Problem
 Due to increased competition and outdated management decisions, Atliq Grands has experienced a drop in market share and revenue. This project aims to:
@@ -40,16 +40,26 @@ Due to increased competition and outdated management decisions, Atliq Grands has
 - **Cancellations**: June recorded a high cancellation rate of 25.09%, negatively impacting occupancy rates.
 - **Room Type Optimization**: Focus on RT2 room types as they are strongly correlated with revenue growth.
 
-## KPIs and Metrics
-Key performance indicators calculated using DAX:
+## Key Performance Indicators (KPIs)
+Primary KPIs calculated using DAX:
 - Total Bookings
 - Total Revenue
 - Average Rating
-- Total Capacity
 - Occupancy %
-- Total Cancelled Bookings
 - Cancellation Rate
+- Average Daily Rate (ADR)
+- RevPAR (Revenue per Available Room)
+
+### Supporting Metrics
+Additional metrics for nuanced analysis:
+- Total Capacity
+- Total Successful Bookings
+- Total Cancelled Bookings
 - Revenue Loss
+- Daily Sellable Room Nights (DSRN)
+- Revenue Week-on-Week Change %
+- ADR Week-on-Week Change %
+- DSRN Week-on-Week Change %
 
 ## Next Steps
 1. **Seasonal Trend Analysis**: Incorporate forecasting for high and low seasons.
