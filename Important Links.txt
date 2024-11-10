@@ -1,0 +1,8 @@
+Important Links:
+
+Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMGMzNjJhMWItZjIwZC00ZjdjLWFhYzYtZjg0Y2E4NmNjMTY3IiwidCI6ImM1NjAwNTllLTNiODktNDE3YS04ZmQxLWRhZTQzOWE5Nzk5NyJ9&pageName=58567d354949e2ad2ffe
+
+
+GitHub Link: https://github.com/shanusaras/Hospitality_revenue_optimization_Power_BI.git
+
+
