@@ -1,5 +1,5 @@
 
-# Hospitality Revenue Optimization and Performance Analysis
+# Hotel Revenue and Operational Efficiency
 
 ## Project Overview
 This project focuses on optimizing revenue and improving market share for Atliq Grands, a luxury hotel chain. Using data intelligence, the project identifies trends, customer behaviors, and strategic opportunities, providing actionable insights through an interactive Power BI dashboard.
