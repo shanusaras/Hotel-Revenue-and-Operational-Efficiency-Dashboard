@@ -1,77 +1,67 @@
-
-# Hotel Revenue and Operational Efficiency
+# Hospitality Revenue Optimization and Performance Analysis
 
 ## Project Overview
-This project focuses on optimizing revenue and improving market share for Atliq Grands, a luxury hotel chain. Using data intelligence, the project identifies trends, customer behaviors, and strategic opportunities, providing actionable insights through an interactive Power BI dashboard.
+Atliq Grands, a chain of five-star hotels in India, faced declining revenue and market share due to strategic moves by competitors and ineffective management decisions. This project was undertaken to provide actionable insights through data analysis and visualization, helping Atliq Grands regain their competitive edge in the luxury hospitality sector.
 
-## Table of Contents
-1. [Project Objective](#project-objective)
-2. [Data Sources and Tools](#data-sources-and-tools)
-3. [Business Problem](#business-problem)
-4. [Methodology](#methodology)
-5. [Key Insights and Recommendations](#key-insights-and-recommendations)
-6. [KPIs and Metrics](#kpis-and-metrics)
-7. [Next Steps](#next-steps)
-8. [Lessons Learned](#lessons-learned)
-9. [Usage](#usage)
+## Objective
+The primary goal of this project was to analyze historical hotel data and deliver insights to the revenue management team. The analysis focused on identifying factors influencing revenue, customer satisfaction, and operational efficiency, while providing actionable recommendations.
 
-## Project Objective
-The primary objective is to support Atliq Grands' revenue management team by providing insights from historical data, enabling data-driven strategies for optimizing bookings, enhancing occupancy, and maximizing revenue.
-
-## Data Sources and Tools
-- **Data**: Historical booking data from Atliq Grands.
-- **Tools & Languages**: Power BI( for visualization), DAX (for KPI calculation), Excel, and SQL for data manipulation.
+## Tools and Technologies
+- **Data Cleaning & Analysis:** Power Query, Microsoft Excel  
+- **Visualization:** Microsoft Power BI  
+- **Key Metrics Development:** DAX  
+- **Platforms:** Power BI Service for dashboard deployment
 
 ## Business Problem
-Due to increased competition and outdated management decisions, Atliq Grands has experienced a drop in market share and revenue. This project aims to:
-- Identify high-impact areas to target specific customer segments and improve occupancy.
-- Detect patterns of cancellations and booking trends.
-- Create data-driven recommendations for revenue recovery.
+Atliq Grands lacked an in-house analytics team and required external expertise to leverage historical data for revenue optimization. Challenges included declining occupancy rates, high cancellation rates, and inadequate focus on high-revenue customer segments.
 
 ## Methodology
-1. **Data Cleaning and Transformation**: Prepared and cleaned data to ensure accuracy, removed duplicates, and transformed data for in-depth analysis.
-2. **Analytical Techniques**:
-   - Segmented analysis in four areas: Overall Analysis, Revenue Analysis, Booking Analysis, and Rating Analysis.
-   - KPI calculations using DAX for dynamic insights on key metrics.
+1. **Data Cleaning & Preparation:**  
+   - Addressed inconsistencies, missing values, and standardized formats.
+   - Merged multiple data sources for a unified dataset.
+   
+2. **Analysis Techniques:**  
+   - Time series analysis for revenue trends.  
+   - Segmentation of customers and room types.  
+   - Key performance indicators (KPIs) created using DAX for detailed insights.
 
-## Key Insights and Recommendations
-- **Elite Customer Focus**: Prioritize targeting high-value customers across cities, especially for RT2 room types, as they significantly boost revenue.
-- **Revenue Trends**: Observed a 28.17% revenue decline in the last week of the month, with Mumbai contributing 13.59% of the total revenue.
-- **Cancellations**: June recorded a high cancellation rate of 25.09%, negatively impacting occupancy rates.
-- **Room Type Optimization**: Focus on RT2 room types as they are strongly correlated with revenue growth.
+3. **Dashboard Development:**  
+   - Designed interactive dashboards with segmented insights for revenue, bookings, and ratings.  
+   - Incorporated visual storytelling to present actionable insights.
 
-## Key Performance Indicators (KPIs)
-Primary KPIs calculated using DAX:
-- Total Bookings
-- Total Revenue
-- Average Rating
-- Occupancy %
-- Cancellation Rate
-- Average Daily Rate (ADR)
-- RevPAR (Revenue per Available Room)
+## Key Insights
+1. Elite customers across cities drive significant revenue.  
+2. RT2 room type contributes the highest revenue and should be prioritized.  
+3. Booking platforms like MakeMyTrip and LogTrip are key to boosting revenue.  
+4. Revenue dipped by 28.17% in the last 4 days of the month.  
+5. June experienced the highest cancellation rate of 25.09%, impacting occupancy rates.  
+6. Atliq Blu outperformed Atliq Seasons in customer ratings by 72.54%.
 
-### Supporting Metrics
-Additional metrics for nuanced analysis:
-- Total Capacity
-- Total Successful Bookings
-- Total Cancelled Bookings
-- Revenue Loss
-- Daily Sellable Room Nights (DSRN)
-- Revenue Week-on-Week Change %
-- ADR Week-on-Week Change %
-- DSRN Week-on-Week Change %
+## KPIs and Metrics
+Key performance indicators calculated using DAX:
+- Total Bookings  
+- Total Revenue  
+- Average Rating  
+- Occupancy %  
+- Cancellation Rate  
+- Revenue Loss  
+- Average Daily Rate (ADR)  
+- RevPAR (Revenue Per Available Room)  
+- Revenue Week-on-Week Change %  
 
-## Next Steps
-1. **Seasonal Trend Analysis**: Incorporate forecasting for high and low seasons.
-2. **Competitor Analysis**: Add pricing and occupancy trends from competitors to guide dynamic pricing.
-3. **Customer Retention Strategies**: Implement initiatives for customer loyalty and retention.
+## Results and Recommendations
+- **Focus on Elite Customers:** Personalized marketing campaigns to boost retention.  
+- **Prioritize RT2 Room Type:** Optimize pricing and availability.  
+- **Enhance Platform Partnerships:** Strengthen collaborations with key booking platforms.  
+- **Cancellation Management:** Target June for improved booking policies.  
 
-## Lessons Learned
-- Enhanced ability to narrate data-driven stories through an interactive dashboard.
-- Deepened understanding of customer segmentation and occupancy strategies.
-- Strengthened skills in creating KPIs with DAX and developing visualizations in Power BI.
+## Skills Developed
+- Advanced DAX for KPI calculation.  
+- Interactive dashboard design in Power BI.  
+- Business storytelling through data visualization.  
 
-## Usage
-To explore the dashboard:
-1. Open the published Power BI report link in your browser.
-2. Interact with filters, time periods, and metrics for specific insights.
+## Future Enhancements
+1. Predictive analytics to forecast demand and optimize pricing dynamically.  
+2. Incorporation of real-time data for immediate decision-making.  
+3. Detailed competitor analysis to refine strategy further.
+
