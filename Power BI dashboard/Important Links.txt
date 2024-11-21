@@ -1,18 +1,15 @@
 Important Links:
 
-Live Dashboard Link: 
-
+Live Dashboard Link:
 https://app.powerbi.com/view?r=eyJrIjoiMGMzNjJhMWItZjIwZC00ZjdjLWFhYzYtZjg0Y2E4NmNjMTY3IiwidCI6ImM1NjAwNTllLTNiODktNDE3YS04ZmQxLWRhZTQzOWE5Nzk5NyJ9&pageName=58567d354949e2ad2ffe
 
-Published on Novypro:
+Published on Novypro: (project link)
 https://project.novypro.com/4nbW34
 
 PDF link:
-
 https://drive.google.com/file/d/10q8NBNzLJnq8qNt0LIeBVz0oNoGSTs6S/view?usp=drive_link
 
 GitHub Link: 
-
 https://github.com/shanusaras/Hospitality_revenue_optimization_Power_BI.git
 
 
