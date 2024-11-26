@@ -2,7 +2,6 @@
 
 [View Interactive Power BI dashboard](https://project.novypro.com/4nbW34)
 
-# Hotel Revenue and Operational Efficiency Analysis
 
 ## Project Overview
 Atliq Grands, a chain of five-star hotels in India, faced declining revenue and market share due to strategic moves by competitors and ineffective management decisions. This project was undertaken to provide actionable insights through data analysis and visualization, helping Atliq Grands regain their competitive edge in the luxury hospitality sector.
